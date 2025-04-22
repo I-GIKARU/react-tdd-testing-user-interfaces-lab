@@ -6,7 +6,7 @@ function App() {
       <h1>Hi, I'm ISAAC GIKARU</h1>
       
       <img 
-        src="https://via.placeholder.com/150" 
+        src="https://lh3.googleusercontent.com/a/ACg8ocKGrV0m3U9LcsmaViefADIe07wgyb-buLlRsdfkHUlt4MlHXape=s288-c-no" 
         alt=" profile picture" 
       />
       
